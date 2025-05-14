@@ -1,0 +1,10 @@
+怎样阅读人民日报PDF版本
+
+
+第一步：安装一个Acrobat Reader软件。此软件是PDF文件阅读工具。如果已经安装，跳过此步。在Readme目录下有一个Ar40chs.exe，执行它即可安装Acrobat Reader。
+
+请注意：请安装Readme目录下的Ar40chs.exe（Acrobat Reader4.0中文版）。如果您的计算机上安装有其它版本的Acrobat Reader，请先卸载，再安装Ar40chs.exe。
+
+第二步：执行apple.exe。在每一个年度（例如1976）目录下都有一个apple.exe文件。如果没有，请从readme目录下复制一个。执行结果将打开Acrobat Reader。apple.exe将会消失。
+
+第三步：现在可以阅读人民日报PDF文件了。选择任意一个pdf文件（例如19991021.pdf），鼠标双击，将在Acrobat Reader中打开该文件。
